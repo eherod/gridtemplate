@@ -300,7 +300,7 @@ h1, h2, strong{
 
 .hero {
    
-    background-image: url('/img/hero-bg.jpg');
+    background-image: url('../img/hero-bg.jpg');
     background-size: cover;
     background-position: bottom;
     color: #fff;
